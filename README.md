@@ -3,7 +3,7 @@
 ## About Me
 ## 1. Academic background:
 
-I am a first-year student currently pursuing my Bachelor of Computer Science specialising in Computer Networks and Security at Universiti Teknologi Malaysia (UTM). I previously studied Computer Science at Kolej Matrikulasi Negeri Sembilan (KMNS), where I developed an interest in computing and began building my foundation in the field. I look forward to expanding my knowledge and improving my technical skills throughout my degree.
+I am Puteri Irdina Sofea Binti Ahmad Nabil, a first-year student currently pursuing my Bachelor of Computer Science specialising in Computer Networks and Security at Universiti Teknologi Malaysia (UTM). I previously studied Computer Science at Kolej Matrikulasi Negeri Sembilan (KMNS), where I developed an interest in computing and began building my foundation in the field. I look forward to expanding my knowledge and improving my technical skills throughout my degree.
 
 ## 2. Future career goals:
 
